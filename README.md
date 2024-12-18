@@ -56,8 +56,8 @@ Model 3	0.0540	250.62	Four predictors; marginal improvement.
 ## Files
 - **group_portfolio.R**: Code for PCA, Factor Analysis, and Clustering.
 - **individual_portfolio.R**: Code for regression models and diagnostics.
-- **group_task_report.pdf**: Comprehensive report detailing the group analysis, including PCA, Factor Analysis, Cluster Analysis, and overall interpretations. [View File](./grouptaskmain.pdf)
-- **individual_portfolio_report.pdf**: Detailed report of the individual analysis, including linear regression models, diagnostics, and comparisons. [View File](./individualPortfoliomain.pdf)
+- **Group Task Report**: Comprehensive report detailing the group analysis, including PCA, Factor Analysis, Cluster Analysis, and overall interpretations. [View Report](grouptaskmain.docx)
+- **Individual Portfolio Report**: Detailed report of the individual analysis, including linear regression models, diagnostics, and comparisons. [View Report](individualPortfoliomain.docx)
 
 ## Key Visualizations
 
